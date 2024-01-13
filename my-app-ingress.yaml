@@ -4,7 +4,7 @@ metadata:
   name: my-app-ingress
 spec:
   rules:
-  - host: my.app
+  - host: zad2.lab
     http:
       paths:
       - backend:
