@@ -22,7 +22,7 @@ spec:
         app: my-app
     spec:
       containers:
-      - image: adamos321/zad2:1.1
+      - image: adamos321/zad2:2
         name: my-app
         resources: {}
 status: {}
